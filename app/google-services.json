@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096669921245",
+    "project_id": "aplikasi-pencatatan-noteus",
+    "storage_bucket": "aplikasi-pencatatan-noteus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096669921245:android:529c0cd0bba262293d8034",
+        "android_client_info": {
+          "package_name": "com.example.aplikasipencatatannoteus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096669921245-7r2tph7e0jcc04pvd8f3pku1cla0v5o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfd8a3sBGNxjvQrwz1mm-0N1I4i6e46E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096669921245-7r2tph7e0jcc04pvd8f3pku1cla0v5o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
